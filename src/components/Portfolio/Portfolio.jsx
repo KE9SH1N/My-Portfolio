@@ -1,8 +1,8 @@
 import React from 'react'
 import './Portfolio.css'
-import img1 from '../../assets/portfolio1.jpg'
-import img2 from '../../assets/portfolio2.jpg'
-import img3 from '../../assets/portfolio3.jpg'
+import img1 from '../../assets/myportfolio.PNG'
+import img2 from '../../assets/basicdashboard.PNG'
+import img3 from '../../assets/newsportal.PNG'
 import img4 from '../../assets/portfolio4.jpg'
 import img5 from '../../assets/portfolio5.png'
 import img6 from '../../assets/portfolio6.jpg'
@@ -11,23 +11,23 @@ const data = [
   {
     id: 1,
     image:img1,
-    title: 'Title 1',
-    github: 'https://github.com',
-    demo:'https://github.com'
+    title: 'My Portfolio',
+    github: 'https://github.com/KE9SH1N/My-Portfolio',
+    demo:'https://my-portfolio-lple9lxds-ke9sh1n.vercel.app/'
   },
   {
     id: 2,
     image: img2,
-    title: 'Title 2',
-    github: 'https://github.com',
-    demo:'https://github.com'
+    title: 'Basic Dashboard',
+    github: 'https://github.com/KE9SH1N/Basic-Dashboard',
+    demo:'https://github.com/KE9SH1N/Basic-Dashboard'
   },
   {
     id: 3,
     image: img3,
-    title: 'Title 3',
-    github: 'https://github.com',
-    demo:'https://github.com'
+    title: 'News Portal',
+    github: 'https://github.com/KE9SH1N/FocusBD-News-Portal',
+    demo:'https://github.com/KE9SH1N/FocusBD-News-Portal'
   },
   {
     id: 4,

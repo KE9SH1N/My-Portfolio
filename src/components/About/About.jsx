@@ -61,12 +61,16 @@ const About = () => {
             </div>
 
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis dolore totam eaque,
-              ullam modi adipisci debitis delectus! Quidem repellat cupiditate ipsa odit id nemo ipsum iste
-              impedit dolores, recusandae voluptatem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-              Perspiciatis dolore totam eaque, ullam modi adipisci debitis delectus! Quidem repellat cupiditate 
-              ipsa odit id nemo ipsum iste impedit dolores, recusandae voluptatem.
+            Hi! <br /> &emsp;
+            This is Md. Muttashim Mishel Mawn. I am from Kalikapur, Natore, Rajshahi. Currently I lived in Khilkhet, Nikunja-2, Dhaka-1229. I am from a nuclear family. My father was an Air force sergeant. Currently he is working in Squere group. My mother is a house wife & have an elder brother who was working in South East Bank but
+            currently he is working on his own local business. I have done my SSC from st joseph's high school & HSC from Birshrestho Munshi Abdur Rouf Public Collage. Then i admited in North South University at computer science and engineering. I am kind of introvert person but i have a good communications among people with common interest.
             </p>
+            
+
+          <p>And last but not the least i am a front-end web developer who is
+            proficient in frameworks like react & vue js.
+            But i have that energy to learn new stuff
+            about the latest technologies.</p>
 
             <a href="#contact" className='btn btn-primary'> Let's Talk</a>
         </div>

@@ -14,7 +14,7 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_ca75qlg', 'template_1s25xo5', form.current, 'oHGgKsM4z_dMwZO4i')
+    emailjs.sendForm('service_az3lwdl', 'template_1s25xo5', form.current, 'oHGgKsM4z_dMwZO4i')
       .then((result) => {
           console.log(result.text);
       }, (error) => {
@@ -34,15 +34,15 @@ const Contact = () => {
           <article className='contact__option'>
             <HiOutlineMail className='contact__option-icon'/>
             <h4>Email</h4>
-            <h5>muttashimmishel@gmail.com</h5>
-            <a href="mailto:muttashimmishel@gmail.com" target="_blank">Send a Message</a>
+            <h5>mishelmawn.job@gmail.com</h5>
+            <a href="mailto:mishelmawn.job@gmail.com" target="_blank">Send a Message</a>
           </article>
 
           <article className='contact__option'>
             <RiMessengerLine className='contact__option-icon'/>
             <h4>Messenger</h4>
-            <h5>Muttashim Mishel Mawn</h5>
-            <a href="https://m.me/mitchell.mawn" target="_blank">Send a Message</a>
+            <h5>Muttashim Mawn</h5>
+            <a href="https://www.messenger.com/t/100056487696923/" target="_blank">Send a Message</a>
           </article>
 
           <article className='contact__option'>
