@@ -18,7 +18,7 @@ const About = () => {
       <div className='container about__container'>
         <div className='about__me'>
             <div className="about__me-image">
-              <img src={ABOUT} alt="About Image" />
+              <img src={ABOUT} alt="" />
             </div>
         </div>
         <div className='about__content'>
@@ -62,7 +62,7 @@ const About = () => {
 
             <p>
             Hi! <br /> &emsp;
-            This is Md. Muttashim Mishel Mawn. I am from Kalikapur, Natore, Rajshahi. Currently I lived in Khilkhet, Nikunja-2, Dhaka-1229. I am from a nuclear family. My father was an Air force sergeant. Currently he is working in Squere group. My mother is a house wife & have an elder brother who was working in South East Bank but
+            This is Md. Muttashim Mishel Mawn. I am from Kalikapur, Natore, Rajshahi. Currently I lived in Khilkhet, Nikunja-2, Dhaka-1229. I am from a nuclear family. My father was an Air force sergeant. Currently he is working in Square group. My mother is a house wife & have an elder brother who was working in South East Bank but
             currently he is working on his own local business. I have done my SSC from st joseph's high school & HSC from Birshrestho Munshi Abdur Rouf Public Collage. Then i admited in North South University at computer science and engineering. I am kind of introvert person but i have a good communications among people with common interest.
             </p>
             

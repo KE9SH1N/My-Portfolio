@@ -1,5 +1,4 @@
 import React from 'react'
-
 import Header from './components/Header/Header'
 import Nav from './components/Navbar/Nav'
 import About from './components/About/About'
@@ -10,16 +9,19 @@ import Footer from './components/Footer/Footer'
 
 const App = () => {
   return (
-    <>
-      <Header/>
-      <Nav/>
-      <About/>
-      <Experience/>
-      <Portfolio/>
-      <Contact/>
-      <Footer/>
+
+    <div>
+      <>
+        <Header />
+        <Nav />
+        <About />
+        <Experience />
+        <Portfolio />
+        <Contact />
+        <Footer />
+      </>
+    </div>
     
-    </>
   )
 }
 
