@@ -3,7 +3,7 @@ import './Portfolio.css'
 import img1 from '../../assets/myportfolio.PNG'
 import img2 from '../../assets/basicdashboard.PNG'
 import img3 from '../../assets/newsportal.PNG'
-import img4 from '../../assets/portfolio4.jpg'
+import img4 from '../../assets/bookstore.PNG'
 import img5 from '../../assets/portfolio5.png'
 import img6 from '../../assets/portfolio6.jpg'
 
@@ -13,7 +13,7 @@ const data = [
     image:img1,
     title: 'My Portfolio',
     github: 'https://github.com/KE9SH1N/My-Portfolio',
-    demo:'https://my-portfolio-lple9lxds-ke9sh1n.vercel.app/'
+    demo:'https://mawn.me'
   },
   {
     id: 2,
@@ -32,9 +32,9 @@ const data = [
   {
     id: 4,
     image: img4,
-    title: 'Title 4',
-    github: 'https://github.com',
-    demo:'https://github.com'
+    title: 'Book Store',
+    github: 'https://github.com/KE9SH1N/Book-Store',
+    demo:'https://book-store-eight-green.vercel.app/'
   },
   {
     id: 5,
