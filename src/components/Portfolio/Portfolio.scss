@@ -1,0 +1,60 @@
+section{
+    .portfolioContainer{
+        .filters{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            a{
+                border: 1px solid white;
+                border-radius: 5px;
+                padding: 8px 20px;
+                margin-right: 20px;
+                font-size: 14px;
+                opacity: 0.5;
+                color: var(--color-light);
+            }
+
+            .active{
+                opacity: 1;
+                color: var(--color-white);
+            }
+        }
+
+        .portfolioContents{
+            .portfolioContent{
+                display: none;
+
+                &.active{
+                    display: flex;
+                }
+            }
+        }
+    }
+}
+
+
+/*============================== MEDIA QUERIES (MEDIUM DIVICES) =================================*/
+
+@media screen and (max-width: 1024px) {
+    
+}
+
+/*============================== MEDIA QUERIES (SMALL DIVICES) =================================*/
+
+@media screen and (max-width: 600px) {
+    section {
+        .portfolioContainer {
+            .filters {
+                display: flex;
+                align-items: center;
+                justify-content: space-evenly;
+
+                a{
+                    font-size: 12px;
+                    margin-right: 0px;
+                    padding: 5px 15px;
+                }
+            }
+        }
+    }
+}

@@ -49,8 +49,8 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Php</h4>
-                <small className='text-light'>Coefficient</small>
+                <h4>Java Script</h4>
+                <small className='text-light'>Expart</small>
               </div>
             </article>
 

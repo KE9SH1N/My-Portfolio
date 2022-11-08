@@ -7,7 +7,6 @@ import {BsBookmarkStar} from 'react-icons/bs'
 import {BiOutline} from 'react-icons/bi'
 import {AiOutlineContacts} from 'react-icons/ai'
 import Scrollspy from "react-scrollspy";
-import { createRef } from 'react'
 
 const Nav = () => {
   return (
