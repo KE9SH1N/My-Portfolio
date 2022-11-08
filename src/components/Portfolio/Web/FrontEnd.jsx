@@ -11,7 +11,7 @@ const data = [
     id: 1,
     image:img1,
     title: 'My Portfolio',
-    description:'Its my own personal portfolio design using react framework.',
+    description:'Its my own responsive personal portfolio design using react framework.',
     github: 'https://github.com/KE9SH1N/My-Portfolio',
     demo:'https://mawn.me'
   },
@@ -19,15 +19,15 @@ const data = [
     id: 2,
     image: img2,
     title: 'Basic Dashboard',
-    description: 'Basic Dashboard landing page design using react.',
+    description: 'Basic Dashboard landing page design using react. Not responsive',
     github: 'https://github.com/KE9SH1N/Basic-Dashboard',
-    demo:'https://github.com/KE9SH1N/Basic-Dashboard'
+    demo:'https://basic-dashboard.vercel.app/'
   },
   {
     id: 3,
     image: img3,
     title: 'News Portal',
-    description: 'Online news portal landing page design using html5, bootstrap css and js.',
+    description: 'Online responsive news portal landing page design using html5, bootstrap css and js.',
     github: 'https://github.com/KE9SH1N/FocusBD-News-Portal',
     demo:'https://github.com/KE9SH1N/FocusBD-News-Portal'
   },
@@ -35,7 +35,7 @@ const data = [
     id: 4,
     image: img4,
     title: 'Book Store',
-    description: 'Book store web design developed with react js.(On development-Json Api data server)',
+    description: 'Book store web design developed with react js.(On development-Tablet and Laptop responsiveness)',
     github: 'https://github.com/KE9SH1N/Book-Store',
     demo:'https://book-store-eight-green.vercel.app/'
   },
