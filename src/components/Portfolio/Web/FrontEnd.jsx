@@ -29,7 +29,7 @@ const data = [
     title: 'News Portal',
     description: 'Online responsive news portal landing page design using html5, bootstrap css and js.',
     github: 'https://github.com/KE9SH1N/FocusBD-News-Portal',
-    demo:'https://github.com/KE9SH1N/FocusBD-News-Portal'
+    demo:'https://ke9sh1n.github.io/FocusBD-News-Portal/Front-End/index.html'
   },
   {
     id: 4,
