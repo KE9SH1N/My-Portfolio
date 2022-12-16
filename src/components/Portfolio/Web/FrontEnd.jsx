@@ -5,6 +5,7 @@ import img2 from '../../../assets/basicdashboard.PNG'
 import img3 from '../../../assets/newsportal.PNG'
 import img4 from '../../../assets/bookstore.PNG'
 import img5 from '../../../assets/eveent.PNG'
+import img6 from '../../../assets/ecova.PNG'
 
 const data = [
   {
@@ -46,6 +47,14 @@ const data = [
     description:'Figma to React App (pixel perfect design) and fetching data from json api.(On dev-Tablet and Laptop responsiveness).',
     github: 'https://github.com/KE9SH1N/Eveent',
     demo:'https://eveent.vercel.app/'
+  },
+  {
+    id: 6,
+    image: img6,
+    title: 'Ecova',
+    description:'Converted Design from bootstrap to tailwind css, using html-5 and tailwindcss.Complete responsive website',
+    github: 'https://infiny-net.github.io/ecova/home-three',
+    demo:'https://infiny-net.github.io/ecova/home-two'
   },
 ]
 
