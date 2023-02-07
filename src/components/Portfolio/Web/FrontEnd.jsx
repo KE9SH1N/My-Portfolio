@@ -6,6 +6,7 @@ import img3 from '../../../assets/newsportal.PNG'
 import img4 from '../../../assets/bookstore.PNG'
 import img5 from '../../../assets/eveent.PNG'
 import img6 from '../../../assets/ecova.PNG'
+import img7 from '../../../assets/shoppe.PNG'
 
 const data = [
   {
@@ -55,6 +56,14 @@ const data = [
     description:'Converted Design from bootstrap to tailwind css, using html-5 and tailwindcss.Complete responsive website',
     github: 'https://infiny-net.github.io/ecova/home-three',
     demo:'https://infiny-net.github.io/ecova/home-two'
+  },
+  {
+    id: 7,
+    image: img7,
+    title: 'Shoppe',
+    description:'Converted a figma design to web design, using html-5, tailwindcss and js.',
+    github: 'https://github.com/KE9SH1N/Shoppe',
+    demo:'https://ke9sh1n.github.io/Shoppe/public/index.html'
   },
 ]
 
