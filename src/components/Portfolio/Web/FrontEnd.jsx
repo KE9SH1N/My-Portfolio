@@ -55,13 +55,13 @@ const data = [
     title: 'Ecova',
     description:'Converted Design from bootstrap to tailwind css, using html-5 and tailwindcss.Complete responsive website',
     github: 'https://infiny-net.github.io/ecova/home-three',
-    demo:'https://infiny-net.github.io/ecova/home-two'
+    demo:'https://infiny-net.github.io/ecova/'
   },
   {
     id: 7,
     image: img7,
     title: 'Shoppe',
-    description:'Converted a figma design to web design, using html-5, tailwindcss and js.',
+    description:'Converting a figma design to web design, using html-5, tailwindcss and js. On development. Responsiveness not yet done.',
     github: 'https://github.com/KE9SH1N/Shoppe',
     demo:'https://ke9sh1n.github.io/Shoppe/public/index.html'
   },
